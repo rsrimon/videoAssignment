@@ -1,0 +1,43 @@
+/* ========== Default Style CSS ========== */
+
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+ul,ol{
+    list-style: none;
+}
+/* ======== Navbar Section CSS ======== */
+
+.menu{
+    background-color: #c7ecee;
+}
+.logo img{
+    width: 50px;
+}
+
+/* ======== Slider Section CSS ======== */
+
+.carousel-item img{
+    height: 500px;
+}
+
+/* ======== Scrollspy Section CSS ======== */
+
+.scrollspy-example{
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+
+/* ======== Footer Section CSS ======== */
+
+footer{
+    background-color: #3c6382;
+}
+footer h5{
+    color: #0c2461;
+}
